@@ -1,0 +1,12 @@
+Laven is a music library tool for exploring numerous artists' songs, biographies and albums by the use of API.
+(API used: TheAudioDB)
+
+Features:
+- Search bar to search for artists (located at bottom left corner)
+- Navigate through artist's tracks by clicking 'Next' or 'Previous' 
+  button
+- 'Shuffle' button to randomise a track
+- 'Play' button to open up the current track's YouTube music 
+  video
+- 'Biography' button to know the Biography of the Artist
+- 'Album' button to showcase a list of Albums of the Artist
